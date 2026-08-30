@@ -1,0 +1,12 @@
+# Reducing Code Duplication
+
+def print_order(name,chai_type):
+    print(f"{name} ordered {chai_type} chai")
+
+print_order("Khushi","masala")
+print_order("Simran","ginger")
+print_order("Jia","Tulsi")
+
+
+
+
